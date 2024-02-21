@@ -8,7 +8,6 @@ git commit -m "initial"
 
 
 lab02
-
 git clone
 cd
 git branch
