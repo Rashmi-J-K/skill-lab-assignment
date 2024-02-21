@@ -93,7 +93,7 @@ git commit -m "second"
 git push
 git log
        press enter
-git show copy initial git id
+git show .....copy initial git id......
 git log --author="Rashmi J K" --since="2024-01-30" --until="2025-12-31"
 
 
