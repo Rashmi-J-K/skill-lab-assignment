@@ -67,6 +67,39 @@ git add .
 git push origin source-branch
 git push origin main
 
+lab06
+
+git clone
+cd
+create f1.txt
+git add f1.txt
+git commit -m "first"
+git push
+create f2.txt
+git add f2.txt
+git commit -m "second"
+git push
+create f3.txt
+git add f3.txt
+git commit -m "second"
+git push
+create f4.txt
+git add f4.txt
+git commit -m "second"
+git push
+create f5.txt
+git add f5.txt
+git commit -m "second"
+git push
+git log
+       press enter
+git show copy initial git id
+git log --author="Rashmi J K" --since="2024-01-30" --until="2025-12-31"
+
+
+ 
+
+
 
 
 
